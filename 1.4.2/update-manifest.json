@@ -1,0 +1,11 @@
+{
+  "version": "1.4.2",
+  "protocolVersion": 2,
+  "notes": "Formato impreso: saltos, caracteres ASCII, negrita GDI, corte escpos_feed. Sin cambios de cola/Pedidos.",
+  "hostZipUrl": "https://fazcaceres21-create.github.io/carnelandia-comandas-releases/1.4.2/host.zip",
+  "hostZipSha256": "f15c4fb614fefbcf4bb7344f23cb562e768fd22504e0f074f7b6862e6560d986",
+  "extensionZipUrl": "https://fazcaceres21-create.github.io/carnelandia-comandas-releases/1.4.2/extension.zip",
+  "extensionZipSha256": "6063c753816bc3f89160bb5a3982238b6ef10929d7133a5ee4835375d4efa655",
+  "minExtensionVersion": "1.4.2",
+  "fullPackageUrl": "https://fazcaceres21-create.github.io/carnelandia-comandas-releases/1.4.2/CarnelandiaComandas-Windows.zip"
+}
