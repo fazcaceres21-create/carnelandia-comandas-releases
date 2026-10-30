@@ -1,0 +1,11 @@
+{
+  "version": "1.4.3",
+  "protocolVersion": 2,
+  "notes": "2 copias por pedido (sin doble WA+remoto). ASCII TELEFONO/DIRECCION/ENVIO. Sin PREPARO/PESOS. stop_agent.bat.",
+  "hostZipUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.3/host.zip",
+  "hostZipSha256": "3941842764688d17ebcae7a5ba0338f3801ea1798993749a440a759cd84f4bab",
+  "extensionZipUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.3/extension.zip",
+  "extensionZipSha256": "ea68ae4e0aa77d5c875f860b831c31ac19fae019d49f1323b8e5a32f01ac2e65",
+  "minExtensionVersion": "1.4.3",
+  "fullPackageUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.3/CarnelandiaComandas-Windows.zip"
+}

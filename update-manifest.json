@@ -1,11 +1,11 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "protocolVersion": 2,
-  "notes": "Formato impreso: saltos, caracteres ASCII, negrita GDI, corte escpos_feed. Sin cambios de cola/Pedidos.",
-  "hostZipUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.2/host.zip",
-  "hostZipSha256": "f15c4fb614fefbcf4bb7344f23cb562e768fd22504e0f074f7b6862e6560d986",
-  "extensionZipUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.2/extension.zip",
-  "extensionZipSha256": "6063c753816bc3f89160bb5a3982238b6ef10929d7133a5ee4835375d4efa655",
-  "minExtensionVersion": "1.4.2",
-  "fullPackageUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.2/CarnelandiaComandas-Windows.zip"
+  "notes": "2 copias por pedido (sin doble WA+remoto). ASCII TELEFONO/DIRECCION/ENVIO. Sin PREPARO/PESOS. stop_agent.bat.",
+  "hostZipUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.3/host.zip",
+  "hostZipSha256": "3941842764688d17ebcae7a5ba0338f3801ea1798993749a440a759cd84f4bab",
+  "extensionZipUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.3/extension.zip",
+  "extensionZipSha256": "ea68ae4e0aa77d5c875f860b831c31ac19fae019d49f1323b8e5a32f01ac2e65",
+  "minExtensionVersion": "1.4.3",
+  "fullPackageUrl": "https://raw.githubusercontent.com/fazcaceres21-create/carnelandia-comandas-releases/main/1.4.3/CarnelandiaComandas-Windows.zip"
 }
