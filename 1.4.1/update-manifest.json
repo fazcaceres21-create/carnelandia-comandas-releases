@@ -1,11 +1,11 @@
 {
   "version": "1.4.1",
   "protocolVersion": 2,
-  "notes": "Carnelandia Comandas 1.4.1",
-  "hostZipUrl": "https://fazcaceres21-create.github.io/carnelandia-comandas-releases/1.4.1/host.zip",
+  "notes": "Cola remota Pedidos + poller agente + instalación Windows",
+  "hostZipUrl": "https://github.com/fazcaceres21-create/carnelandia-comandas-releases/releases/download/v1.4.1/host.zip",
   "hostZipSha256": "c0f75b9b2816ec48e7222197a3e2b39cb468d2781ebfc5cb5f1d578b102cc1f6",
-  "extensionZipUrl": "https://fazcaceres21-create.github.io/carnelandia-comandas-releases/1.4.1/extension.zip",
+  "extensionZipUrl": "https://github.com/fazcaceres21-create/carnelandia-comandas-releases/releases/download/v1.4.1/extension.zip",
   "extensionZipSha256": "9412b4edcfda10286c9b4c3232d5eaf5e1f082f0e8baaf0cf7b446c67fd1978a",
   "minExtensionVersion": "1.4.1",
-  "fullPackageHint": "CarnelandiaComandas-1.4.1.zip"
+  "fullPackageUrl": "https://github.com/fazcaceres21-create/carnelandia-comandas-releases/releases/download/v1.4.1/CarnelandiaComandas-1.4.1.zip"
 }
